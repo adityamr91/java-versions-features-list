@@ -1,4 +1,17 @@
-# java-versions-features-list
+# Java Major Version Newly Added Features
+
+# Java 15
+1. JEP 360: Sealed Classes<br />
+2. JEP 371: Hidden Classes<br />
+
+# Java 11
+1. Running Java File with single command<br />
+2. New utility methods in String class<br />
+3. Local-Variable Syntax for Lambda Parameters<br />
+4. Nested Based Access Control<br />
+5. JEP 321: HTTP Client<br />
+6. Reading/Writing Strings to and from the Files<br />
+7. JEP 328: Flight Recorder<br />
 
 # Java 8
 1. Lambda expressions<br />
