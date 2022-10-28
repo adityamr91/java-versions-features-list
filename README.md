@@ -45,8 +45,8 @@
 16. JDBC Enhancements etc.
 
 # Java 7
-1. String in switch statement (Java 7)<br />
-2. Binary Literals (Java 7)<br />
-3. The try-with-resources (Java 7)<br />
-4. Caching Multiple Exceptions by single catch (Java 7)<br />
-5. Underscores in Numeric Literals (Java 7)<br />
+1. String in switch statement<br />
+2. Binary Literals<br />
+3. The try-with-resources <br />
+4. Caching Multiple Exceptions by single catch <br />
+5. Underscores in Numeric Literals <br />
