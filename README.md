@@ -13,6 +13,19 @@
 6. Reading/Writing Strings to and from the Files<br />
 7. JEP 328: Flight Recorder<br />
 
+# Java 9
+1. Factory Methods for Immutable List, Set, Map and Map.Entry
+2. Private methods in Interfaces
+3. Java 9 Module System
+4. Process API Improvements
+5. Try With Resources Improvement
+6. CompletableFuture API Improvements
+7. Reactive Streams (new methods in Stream API)
+8. Diamond Operator for Anonymous Inner Class
+9. Optional Class Improvements
+10. Stream API Improvements
+11. Enhanced @Deprecated annotation
+
 # Java 8
 1. Lambda expressions<br />
 2. Method references<br />
